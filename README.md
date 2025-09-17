@@ -27,7 +27,6 @@ This project focuses on data cleaning, visualization, and dashboard development 
 
  CORD-19-Explorer
 ├── app.py                # Streamlit dashboard
-├── part1_explore.py      # Command-line exploration script
 ├── full_assignment.py    # Combined script for all tasks
 ├── metadata.csv          # Dataset (not included here due to size)
 ├── REPORT.md             # Findings and reflection
